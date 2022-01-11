@@ -64,8 +64,7 @@ Here are some of the highlights of the website
 * Knowing that the majority of customers will be viewing the site on a mobile platform, I prioritized planning out a seamless yet engaging mobile experience.
   <br/>
   
-<a href="#"><img width="100%" height="auto" src="images/menu.png" height="175px"/></a>
-<i>Accordion Menu for Ingredients</i>
+<p align = "center" <a href="#"><img width="30%" height="auto" src="images/mobileG.gif" height="105px"/></a> </p>
 
 
 
